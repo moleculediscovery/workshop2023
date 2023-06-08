@@ -31,15 +31,7 @@ The workshop will be open for everyone without registration fee.
 ### Call for papers
 We are calling for papers advancing or critically assessing molecular machine learning. Topics include (but not limited to):  
 
-- Critical assessment of molecular machine learning
-- Benchmarking machine learning methods for molecules and new data sets or tasks
-- Zero- and few-shot learning methods for molecules, data-efficient learning 
-- Domain shifts and out-of-distribution handling 
-- Abstraction and improved representations of molecules
-- Interpretability and explainability methods for molecules
-- Multi-modal learning and modular architectures
-- Causality and physics-based machine learning for molecules
-
+- ...
 
 
 ### Organizing Committee and Contact
