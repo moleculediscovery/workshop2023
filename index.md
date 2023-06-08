@@ -35,7 +35,7 @@ We are calling for papers advancing or critically assessing molecular machine le
 
 
 ### Organizing Committee and Contact
-Chairs: [...]
+Chairs: [TBA]
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
 ### Program Committee
