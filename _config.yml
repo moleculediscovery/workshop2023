@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Critical assessment of molecular machine learning workshop [ML4Molecules]
-description: ELLIS workshop, VIRTUAL, November 28, 2022, unofficial NeurIPS2022 side-event
+title: ELLIS Machine Learning for Molecules Discovery workshop [ML4Molecules]
+description: ELLIS workshop, VIRTUAL, Mid December, 2023, unofficial NeurIPS2023 side-event
