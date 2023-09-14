@@ -22,6 +22,7 @@ The workshop will be open for everyone without registration fee.
 
 
 ### Speakers
+| Bruno Correia, Associate Professor in the Laboratory of Protein Design and Immunoengineering            |              |
 
 ### Accepted contributions (oral)
 [TBA]
