@@ -41,8 +41,8 @@ The workshop will be open for everyone without registration fee.
 
 ### Important dates
  - Deadline for submission: NeurIPS submission friendly
-- Mid November, 2023: author notification
- - November 28, 2023: workshop
+- Mid November, 2023: Author notification
+ - December 8, 2023: Workshop
 
 ### Call for papers
 We are calling for papers advancing or critically assessing molecular machine learning. Topics include (but not limited to):  
