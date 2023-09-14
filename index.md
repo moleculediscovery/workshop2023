@@ -36,11 +36,20 @@ The workshop will be open for everyone without registration fee.
 ### Call for papers
 We are calling for papers advancing or critically assessing molecular machine learning. Topics include (but not limited to):  
 
-- ...
+- Benchmarking molecular machine learning methods
+- Data-efficient learning
+- Large language models in chemistry
+- Model interpretability and explainability
+- Interatomic potentials for molecules and materials
+- Generative modeling
+- Machine learning for protein engineering
+- Automation of the DMTA cycle
+- Chemical reactions
+
 
 
 ### Organizing Committee and Contact
-Chairs: [TBA]
+Chairs: Andrea Volkamer, Francesca Grisoni, Philippe Schwaller, Michele Ceriotti
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
 ### Program Committee
