@@ -24,13 +24,14 @@ The workshop will be open for everyone without registration fee.
 ### Speakers
 
 ### Accepted contributions (oral)
-
+[TBA]
 
 ### Accepted contributions (poster)
+[TBA]
 
 ### Important dates
- - October, 2023: submission deadline
- - Mid November, 2023: author notification
+ - Deadline for submission: NeurIPS submission friendly
+- Mid November, 2023: author notification
  - November 28, 2023: workshop
 
 ### Call for papers
@@ -46,10 +47,9 @@ We are calling for papers advancing or critically assessing molecular machine le
 - Automation of the DMTA cycle
 - Chemical reactions
 
-
-
 ### Organizing Committee and Contact
 Chairs: Andrea Volkamer, Francesca Grisoni, Philippe Schwaller, Michele Ceriotti
+
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
 ### Program Committee
