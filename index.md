@@ -22,13 +22,13 @@ The workshop will be open for everyone without registration fee.
 
 
 ### Speakers
-| Bruno Correia, EPFL            |              |
-| Raquel Rodríguez-Pérez, Novartis Institutes for Biomedical Research            |              |
-| Renana Gershoni-Poranne, Technion            |              |
-| Jan H. Jensen, University of Copenhagen            |              |
-| Rianne van der Berg, Microsoft Research            |              |
-| Andrew D. White, Stealth AI x Bio Institute            |              |
-| Eva Nittinger, AstraZeneca            |              |
+Bruno Correia, EPFL
+Raquel Rodríguez-Pérez, Novartis Institutes for Biomedical Research
+Renana Gershoni-Poranne, Technion
+Jan H. Jensen, University of Copenhagen
+Rianne van der Berg, Microsoft Research
+Andrew D. White, Stealth AI x Bio Institute
+Eva Nittinger, AstraZeneca
 
 ### Accepted contributions (oral)
 [TBA]
