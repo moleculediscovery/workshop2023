@@ -24,7 +24,7 @@ The workshop will be open for everyone without registration fee.
 ### Speakers
 
 
-| ![Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en "Bruno Correia")            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. His research focuses, among others, on the deciphering of functional fingerprints in protein surfaces and in the bottom-up de novo design of proteins             |
+| ![Bruno Correia](https://people.epfl.ch/private/common/photos/links/253103.jpg?ts=1694763012 "Bruno Correia")            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. His research focuses, among other areas, on deciphering functional fingerprints on protein surfaces and the bottom-up de novo design of proteins.             |
 | ![Raquel Rodríguez-Pérez](https://relx-elsevier-erms.file.force.com/servlet/servlet.ImageServer?id=0154L000000gZPLQA2&oid=00D1t000000qIy5EAE&lastMod=1609776015940 "Raquel Rodríguez-Pérez")             | [Raquel Rodríguez-Pérez](https://scholar.google.com/citations?user=ZF7X7ucAAAAJ&hl=en), Novartis Institutes for Biomedical Research, Switzerland             |
 | [Renana Gershoni-Poranne](https://chemistry.technion.ac.il/en/team/renana-gershoni-poranne-2/)             | Technion             |
 | [Jan H. Jensen](https://chem.ku.dk/research_sections/physchem/jensen-group/)             | University of Copenhagen             |
