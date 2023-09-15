@@ -40,7 +40,7 @@ The workshop will be open for everyone without registration fee.
 [TBA]
 
 ### Important dates
- - Deadline for submission: NeurIPS submission friendly
+ - Deadline for submission: NeurIPS workshop submission friendly
 - Mid November, 2023: Author notification
  - December 8, 2023: Workshop
 
@@ -58,7 +58,9 @@ We are calling for papers advancing or critically assessing molecular machine le
 - Chemical reactions
 
 ### Organizing Committee and Contact
-Chairs: Andrea Volkamer (Michael Backenköhler), Francesca Grisoni (Rıza Özçelik, Helena Brinkmann), Philippe Schwaller (Geemi Wellawatte), Michele Ceriotti
+Chairs: Andrea Volkamer, Francesca Grisoni, Philippe Schwaller, Michele Ceriotti
+
+Organizing comimittee: Andrea Volkamer, Michael Backenköhler, Francesca Grisoni, Rıza Özçelik, Helena Brinkmann, Philippe Schwaller, Geemi Wellawatte, Michele Ceriotti
 
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
