@@ -55,9 +55,9 @@ We are calling for papers advancing or critically assessing molecular machine le
 - Chemical reactions
 
 ### Organizing Committee and Contact
-Chairs: Andrea Volkamer, Francesca Grisoni, Philippe Schwaller, Michele Ceriotti
+Chairs: [Michele Ceriotti](https://www.epfl.ch/labs/cosmo/), [Francesca Grisoni](https://molml.github.io/), [Philippe Schwaller](https://schwallergroup.github.io/), [Andrea Volkamer](https://volkamerlab.org/)
 
-Organizing comimittee: Andrea Volkamer, Francesca Grisoni, Philippe Schwaller, Michele Ceriotti, Michael Backenköhler, Rıza Özçelik, Helena Brinkmann, Geemi Wellawatte 
+Organizing comimittee: Michael Backenköhler, Helena Brinkmann, Michele Ceriotti, Francesca Grisoni, Rıza Özçelik, Philippe Schwaller, Andrea Volkamer, Geemi Wellawatte 
 
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
