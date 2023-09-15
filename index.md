@@ -10,15 +10,20 @@ We encourage contributions that focus on robust architectures capable of handlin
 
 Join us at this workshop, where experts from diverse fields, including ML, molecular sciences, and LLMs, will collaborate to overcome current limitations, explore new possibilities, and chart the future of molecular machine learning. Together, we aim to accelerate the discovery of functional molecules, revolutionize drug development, secure our food supply, and drive sustainable energy conversion and storage, ultimately shaping a better future for humanity.
 
-### Registration
-The workshop will be open for everyone without registration fee. 
+### Call for papers
+We are calling for papers advancing or critically assessing molecular machine learning. Topics include (but not limited to):  
 
-### Schedule 
+- Benchmarking molecular machine learning methods
+- Data-efficient learning
+- Large language models in chemistry
+- Model interpretability and explainability
+- Interatomic potentials for molecules and materials
+- Generative modeling
+- Machine learning for protein engineering
+- Automation of the DMTA cycle
+- Chemical reactions
 
-Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
-
-
-### Speakers
+### Keynote Speakers
 
 
 | <img align="left" width="200" height="250" src="https://people.epfl.ch/private/common/photos/links/253103.jpg?ts=1694763012">            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.             |
@@ -36,23 +41,16 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 ### Accepted contributions (poster)
 [TBA] --->
 
+### Registration
+The workshop will be open for everyone without registration fee. 
+
+### Schedule 
+Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
+
 ### Important dates
  - October 6, 2023: Deadline for submission
 - Mid November, 2023: Author notification
  - December 8, 2023: Workshop
-
-### Call for papers
-We are calling for papers advancing or critically assessing molecular machine learning. Topics include (but not limited to):  
-
-- Benchmarking molecular machine learning methods
-- Data-efficient learning
-- Large language models in chemistry
-- Model interpretability and explainability
-- Interatomic potentials for molecules and materials
-- Generative modeling
-- Machine learning for protein engineering
-- Automation of the DMTA cycle
-- Chemical reactions
 
 ### Organizing Committee and Contact
 Chairs: [Michele Ceriotti](https://www.epfl.ch/labs/cosmo/), [Francesca Grisoni](https://molml.github.io/), [Philippe Schwaller](https://schwallergroup.github.io/), [Andrea Volkamer](https://volkamerlab.org/)
