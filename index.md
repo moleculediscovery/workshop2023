@@ -15,7 +15,7 @@ The workshop will be open for everyone without registration fee.
 
 ### Schedule 
 
-09:00 am - 6:00 pm, CET
+Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 
 
 ### Speakers
