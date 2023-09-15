@@ -24,7 +24,7 @@ The workshop will be open for everyone without registration fee.
 ### Speakers
 
 
-| [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en)            | EPFL             |
+| ![BrunoCorreia](BrunoCorreia.jpeg)            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), EPFL             |
 | [Raquel Rodríguez-Pérez](https://scholar.google.com/citations?user=ZF7X7ucAAAAJ&hl=en)             | Novartis Institutes for Biomedical Research             |
 | [Renana Gershoni-Poranne](https://chemistry.technion.ac.il/en/team/renana-gershoni-poranne-2/)             | Technion             |
 | [Jan H. Jensen](https://chem.ku.dk/research_sections/physchem/jensen-group/)             | University of Copenhagen             |
