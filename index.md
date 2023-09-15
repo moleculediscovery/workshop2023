@@ -15,10 +15,7 @@ The workshop will be open for everyone without registration fee.
 
 ### Schedule 
 
-
-| CET             | Event              |        Speakers          |   Title     |                                                                 
-| 09:00           | Opening remarks            |                       |             | 
-| 18:00           | Closing remarks     |                          |        | 
+09:00 am - 6:00 pm, CET
 
 
 ### Speakers
@@ -33,11 +30,11 @@ The workshop will be open for everyone without registration fee.
 | <img align="left" width="200" height="200" src="https://media.licdn.com/dms/image/C4E03AQE9jL1_h9fKrQ/profile-displayphoto-shrink_800_800/0/1517586795854?e=2147483647&v=beta&t=J2evD3Pg-T3lLZKrPA8jKUw0pk97_BH7L-7Ik8-m2rE">             | [Eva Nittinger](https://scholar.google.com/citations?user=iqlNcZUAAAAJ&hl=de), AstraZeneca, Sweden.             |
 
 
-### Accepted contributions (oral)
+<!-- ### Accepted contributions (oral)
 [TBA]
 
 ### Accepted contributions (poster)
-[TBA]
+[TBA] --->
 
 ### Important dates
  - October 6, 2023: Deadline for submission
