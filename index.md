@@ -61,6 +61,6 @@ Organizing comimittee: Michael Backenköhler, Helena Brinkmann, Michele Ceriotti
 
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
-### Program Committee
+<!-- ### Program Committee
 
-### References
+### References --->
