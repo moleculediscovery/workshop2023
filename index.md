@@ -25,10 +25,10 @@ The workshop will be open for everyone without registration fee.
 
 
 | <img align="left" width="300" height="200" src="https://people.epfl.ch/private/common/photos/links/253103.jpg?ts=1694763012">            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. His research focuses, among other areas, on deciphering functional fingerprints on protein surfaces and the bottom-up de novo design of proteins.             |
-| <img align="left" width="300" height="200" src="https://relx-elsevier-erms.file.force.com/servlet/servlet.ImageServer?id=0154L000000gZPLQA2&oid=00D1t000000qIy5EAE&lastMod=1609776015940">             | [Raquel Rodríguez-Pérez](https://scholar.google.com/citations?user=ZF7X7ucAAAAJ&hl=en), Novartis Institutes for Biomedical Research, Switzerland             |
-| [Renana Gershoni-Poranne](https://chemistry.technion.ac.il/en/team/renana-gershoni-poranne-2/)             | Technion             |
+| <img align="left" width="200" height="200" src="https://relx-elsevier-erms.file.force.com/servlet/servlet.ImageServer?id=0154L000000gZPLQA2&oid=00D1t000000qIy5EAE&lastMod=1609776015940">             | [Raquel Rodríguez-Pérez](https://scholar.google.com/citations?user=ZF7X7ucAAAAJ&hl=en), Novartis Institutes for Biomedical Research, Switzerland             |
+| <img align="left" width="200" height="200" src="https://chemistry.technion.ac.il/wp-content/uploads/2021/10/CV-Picture-Renana-Gershoni-Poranne-700x700.jpg">             | [Renana Gershoni-Poranne](https://chemistry.technion.ac.il/en/team/renana-gershoni-poranne-2/), Technion, Israel. Renana leads a research group in the field of computational physical organic chemistry, where they focus on polycyclic aromatic systems. The group applies machine learning and deep learning models for data-driven molecular design and discovery, including applications in chemical reactions.             |
 | [Jan H. Jensen](https://chem.ku.dk/research_sections/physchem/jensen-group/)             | University of Copenhagen             |
-| [Rianne van der Berg](https://www.microsoft.com/en-us/research/people/rvandenberg/)             | Microsoft Research             |
+| <img align="left" width="200" height="200" src="hhttps://www.microsoft.com/en-us/research/uploads/prod/2021/10/profile_photo-3.png">             | [Rianne van der Berg](https://www.microsoft.com/en-us/research/people/rvandenberg/), Microsoft Research, Netherlands. Her research spans from generative modeling to             |
 | [Andrew D. White](https://thewhitelab.org/)             | Stealth AI x Bio Institute             |
 | [Eva Nittinger](https://scholar.google.com/citations?user=iqlNcZUAAAAJ&hl=de)             | AstraZeneca             |
 
