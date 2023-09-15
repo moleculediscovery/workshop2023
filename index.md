@@ -24,13 +24,13 @@ The workshop will be open for everyone without registration fee.
 ### Speakers
 
 
-| <img align="left" width="200" height="300" src="https://people.epfl.ch/private/common/photos/links/253103.jpg?ts=1694763012">            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. His research focuses, among other areas, on deciphering functional fingerprints on protein surfaces and the bottom-up de novo design of proteins.             |
-| <img align="left" width="200" height="200" src="https://relx-elsevier-erms.file.force.com/servlet/servlet.ImageServer?id=0154L000000gZPLQA2&oid=00D1t000000qIy5EAE&lastMod=1609776015940">             | [Raquel Rodríguez-Pérez](https://scholar.google.com/citations?user=ZF7X7ucAAAAJ&hl=en), Novartis Institutes for Biomedical Research, Switzerland             |
-| <img align="left" width="200" height="200" src="https://chemistry.technion.ac.il/wp-content/uploads/2021/10/CV-Picture-Renana-Gershoni-Poranne-700x700.jpg">             | [Renana Gershoni-Poranne](https://chemistry.technion.ac.il/en/team/renana-gershoni-poranne-2/), Technion, Israel. Renana leads a research group in the field of computational physical organic chemistry, where they focus on polycyclic aromatic systems. The group applies machine learning and deep learning models for data-driven molecular design and discovery, including applications in chemical reactions.             |
-| [Jan H. Jensen](https://chem.ku.dk/research_sections/physchem/jensen-group/)             | University of Copenhagen             |
-| <img align="left" width="200" height="200" src="hhttps://www.microsoft.com/en-us/research/uploads/prod/2021/10/profile_photo-3.png">             | [Rianne van der Berg](https://www.microsoft.com/en-us/research/uploads/prod/2021/10/profile_photo-3.png), Microsoft Research, Netherlands. Her research spans from generative modeling to             |
-| [Andrew D. White](https://thewhitelab.org/)             | Stealth AI x Bio Institute             |
-| [Eva Nittinger](https://scholar.google.com/citations?user=iqlNcZUAAAAJ&hl=de)             | AstraZeneca             |
+| <img align="left" width="200" height="300" src="https://people.epfl.ch/private/common/photos/links/253103.jpg?ts=1694763012">            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.             |
+| <img align="left" width="200" height="200" src="https://relx-elsevier-erms.file.force.com/servlet/servlet.ImageServer?id=0154L000000gZPLQA2&oid=00D1t000000qIy5EAE&lastMod=1609776015940">             | [Raquel Rodríguez-Pérez](https://scholar.google.com/citations?user=ZF7X7ucAAAAJ&hl=en), Novartis Institutes for Biomedical Research, Switzerland.             |
+| <img align="left" width="200" height="200" src="https://chemistry.technion.ac.il/wp-content/uploads/2021/10/CV-Picture-Renana-Gershoni-Poranne-700x700.jpg">             | [Renana Gershoni-Poranne](https://chemistry.technion.ac.il/en/team/renana-gershoni-poranne-2/), Technion, Israel.             |
+| <img align="left" width="200" height="200" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=lOz-SVQAAAAJ&citpid=2">             | [Jan H. Jensen](https://chem.ku.dk/research_sections/physchem/jensen-group/), University of Copenhagen, Denmark.             |
+| <img align="left" width="200" height="200" src="https://www.microsoft.com/en-us/research/uploads/prod/2021/10/profile_photo-3.png">             | [Rianne van der Berg](https://www.microsoft.com/en-us/research/uploads/prod/2021/10/profile_photo-3.png), Microsoft Research, Netherlands.             |
+| <img align="left" width="200" height="200" src="https://www.hajim.rochester.edu/che/people/faculty/white_andrew/assets/images/white.jpg">             | [Andrew D. White](https://thewhitelab.org/), Stealth AI x Bio Institute, United States.             |
+| <img align="left" width="200" height="200" src="https://media.licdn.com/dms/image/C4E03AQE9jL1_h9fKrQ/profile-displayphoto-shrink_800_800/0/1517586795854?e=2147483647&v=beta&t=J2evD3Pg-T3lLZKrPA8jKUw0pk97_BH7L-7Ik8-m2rE">             | [Eva Nittinger](https://scholar.google.com/citations?user=iqlNcZUAAAAJ&hl=de), AstraZeneca, Sweden.             |
 
 
 ### Accepted contributions (oral)
@@ -40,7 +40,7 @@ The workshop will be open for everyone without registration fee.
 [TBA]
 
 ### Important dates
- - Deadline for submission: NeurIPS workshop submission friendly
+ - October 6, 2023: Deadline for submission
 - Mid November, 2023: Author notification
  - December 8, 2023: Workshop
 
