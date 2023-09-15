@@ -60,7 +60,7 @@ We are calling for papers advancing or critically assessing molecular machine le
 ### Organizing Committee and Contact
 Chairs: Andrea Volkamer, Francesca Grisoni, Philippe Schwaller, Michele Ceriotti
 
-Organizing comimittee: Andrea Volkamer, Michael Backenköhler, Francesca Grisoni, Rıza Özçelik, Helena Brinkmann, Philippe Schwaller, Geemi Wellawatte, Michele Ceriotti
+Organizing comimittee: Andrea Volkamer, Francesca Grisoni, Philippe Schwaller, Michele Ceriotti, Michael Backenköhler, Rıza Özçelik, Helena Brinkmann, Geemi Wellawatte 
 
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
