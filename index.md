@@ -24,7 +24,7 @@ The workshop will be open for everyone without registration fee.
 ### Speakers
 
 
-| Bruno Correia            | EPFL             |
+| [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en)            | EPFL             |
 | Raquel Rodríguez-Pérez             | Novartis Institutes for Biomedical Research             |
 | Renana Gershoni-Poranne             | Technion             |
 | Jan H. Jensen             | University of Copenhagen             |
