@@ -53,7 +53,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
  - December 8, 2023: Workshop
 
 ### Organizing Committee and Contact
-Chairs: [Michele Ceriotti](https://www.epfl.ch/labs/cosmo/), [Francesca Grisoni](https://molml.github.io/), [Philippe Schwaller](https://schwallergroup.github.io/), [Andrea Volkamer](https://volkamerlab.org/)
+Chairs: [Michele Ceriotti](https://www.epfl.ch/labs/cosmo/), [Francesca Grisoni](https://molecularmachinelearning.com/), [Philippe Schwaller](https://schwallergroup.github.io/), [Andrea Volkamer](https://volkamerlab.org/)
 
 Organizing comimittee: Michael Backenköhler, Helena Brinkmann, Michele Ceriotti, Francesca Grisoni, Rıza Özçelik, Philippe Schwaller, Andrea Volkamer, Geemi Wellawatte 
 
