@@ -33,6 +33,7 @@ We are calling for papers advancing or critically assessing molecular machine le
 | <img align="left" width="200" height="200" src="https://www.microsoft.com/en-us/research/uploads/prod/2021/10/profile_photo-3.png">             | [Rianne van der Berg](https://www.microsoft.com/en-us/research/people/rvandenberg/), Microsoft Research, Netherlands.             |
 | <img align="left" width="200" height="200" src="https://www.hajim.rochester.edu/che/people/faculty/white_andrew/assets/images/white.jpg">             | [Andrew D. White](https://thewhitelab.org/), Stealth AI x Bio Institute, United States.             |
 | <img align="left" width="200" height="200" src="https://media.licdn.com/dms/image/C4E03AQE9jL1_h9fKrQ/profile-displayphoto-shrink_800_800/0/1517586795854?e=2147483647&v=beta&t=J2evD3Pg-T3lLZKrPA8jKUw0pk97_BH7L-7Ik8-m2rE">             | [Eva Nittinger](https://scholar.google.com/citations?user=iqlNcZUAAAAJ&hl=de), AstraZeneca, Sweden.             |
+| <img align="left" width="200" height="200" src="https://relaytx.com/wp-content/uploads/2023/04/230216_Relay_PatWalters_HiRes-9728.jpg">             | [Pat Walters](https://relaytx.com/our-team/pat-walters-ph-d/), Relay Therapeutics, Cambridge, United States.             |
 
 
 <!-- ### Accepted contributions (oral)
@@ -42,7 +43,7 @@ We are calling for papers advancing or critically assessing molecular machine le
 [TBA] --->
 
 ### Registration
-The workshop will be open for everyone without registration fee. 
+The workshop will be open to everyone without a registration fee. 
 
 ### Schedule 
 Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
@@ -55,7 +56,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 ### Organizing Committee and Contact
 Chairs: [Michele Ceriotti](https://www.epfl.ch/labs/cosmo/), [Francesca Grisoni](https://molecularmachinelearning.com/), [Philippe Schwaller](https://schwallergroup.github.io/), [Andrea Volkamer](https://volkamerlab.org/)
 
-Organizing comimittee: Michael Backenköhler, Helena Brinkmann, Michele Ceriotti, Francesca Grisoni, Rıza Özçelik, Philippe Schwaller, Andrea Volkamer, Geemi Wellawatte 
+Organizing committee: Michael Backenköhler, Helena Brinkmann, Michele Ceriotti, Francesca Grisoni, Rıza Özçelik, Philippe Schwaller, Andrea Volkamer, Geemi Wellawatte 
 
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
 
