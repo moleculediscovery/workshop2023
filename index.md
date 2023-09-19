@@ -23,6 +23,8 @@ We are calling for papers advancing or critically assessing molecular machine le
 - Automation of the DMTA cycle
 - Chemical reactions
 
+Please submit your contributions on OpenReview (link will be published shortly!). The submissions should be in PDF and follow the NeurIPS template with a maximum of 4 pages. More details will be shared asap.
+
 ### Keynote Speakers
 
 
@@ -43,15 +45,15 @@ We are calling for papers advancing or critically assessing molecular machine le
 [TBA] --->
 
 ### Registration
-The workshop will be open to everyone without a registration fee. 
+The workshop will be open to everyone without a registration fee. The registration link will be shared shortly.
 
 ### Schedule 
 Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 
 ### Important dates
- - October 6, 2023: Deadline for submission
+- October 6, 2023: Deadline for submission
 - Mid November, 2023: Author notification
- - December 8, 2023: Workshop
+- December 8, 2023: Workshop
 
 ### Organizing Committee and Contact
 Chairs: [Michele Ceriotti](https://www.epfl.ch/labs/cosmo/), [Francesca Grisoni](https://molecularmachinelearning.com/), [Philippe Schwaller](https://schwallergroup.github.io/), [Andrea Volkamer](https://volkamerlab.org/)
