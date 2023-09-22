@@ -45,7 +45,7 @@ Please submit your contributions on OpenReview (link will be published shortly!)
 [TBA] --->
 
 ### Registration
-The workshop will be open to everyone without a registration fee. The registration link will be shared shortly.
+The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-723480107477?aff=oddtdtcreator).
 
 ### Schedule 
 Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
