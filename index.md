@@ -51,7 +51,7 @@ The workshop will be open to everyone without a registration fee. You can regist
 Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 
 ### Important dates
-- October 6, 2023: Deadline for submission
+- October 13, 2023: Deadline for submission
 - Mid November, 2023: Author notification
 - December 8, 2023: Workshop
 
