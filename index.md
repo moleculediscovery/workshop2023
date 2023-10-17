@@ -23,7 +23,7 @@ We are calling for papers advancing or critically assessing molecular machine le
 - Automation of the DMTA cycle
 - Chemical reactions
 
-Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2023/Workshop/ML4Molecules) until October 13 2023 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) template with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous.
+Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2023/Workshop/ML4Molecules) until October 23 2023 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) template with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous.
 
 ### Keynote Speakers
 
@@ -51,7 +51,7 @@ The workshop will be open to everyone without a registration fee. You can regist
 Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 
 ### Important dates
-- October 13, 2023: Deadline for submission
+- October 23, 2023: Deadline for submission
 - Mid November, 2023: Author notification
 - December 8, 2023: Workshop
 
