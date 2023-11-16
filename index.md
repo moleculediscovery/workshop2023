@@ -32,7 +32,7 @@ The workshop will be open to everyone without a registration fee. You can regist
 Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 
 
-| CET             |	Event             |	Speakers             |
+| CET             |	Event             |	Speakers             | 
 | 09:00             |	Opening remarks            | TBA             |	
 | 09:00             |	Invited Talk             |	Renana Gershoni-Poranne             |
 | 09:30             |	Invited Talk             |	Jan H. Jensen             |
@@ -40,7 +40,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 10:15             |	Contributed talk             | TBA             |		
 | 10:30             |	Contributed talk             | TBA             |		
 | 10:45             |	Contributed talk             | TBA             |		
-| 11:00             |	Poster Session (1)             | Poster discussion at Gathertownat             |	
+| 11:00             |	Poster Session (1)             | Poster discussion at Gathertown             |	
 | 12:00             |	Break             |				
 | 13:00             |	Invited talk             |	Rianne van der Berg             |	
 | 13:30             |	Invited talk             |	Bruno Correia             |	
@@ -52,7 +52,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 16:00             |	Invited talk             |	Pat Walters             |	
 | 16:30             |	Invited talk             |	Andrew D. White             |
 | 17:00             |	Closing remarks             |
-| 17:05             |	Poster Session (2)             | Poster discussion at Gathertownat             |	
+| 17:05             |	Poster Session (2)             | Poster discussion at Gathertown             |	
 | 18:00             |	End             | TBA             |
 
 
