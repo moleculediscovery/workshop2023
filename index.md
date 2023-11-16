@@ -10,21 +10,6 @@ We encourage contributions that focus on robust architectures capable of handlin
 
 Join us at this workshop, where experts from diverse fields, including ML, molecular sciences, and LLMs, will collaborate to overcome current limitations, explore new possibilities, and chart the future of molecular machine learning. Together, we aim to accelerate the discovery of functional molecules, revolutionize drug development, secure our food supply, and drive sustainable energy conversion and storage, ultimately shaping a better future for humanity.
 
-### Call for papers
-We are calling for papers advancing or critically assessing molecular machine learning. Topics include (but not limited to):  
-
-- Benchmarking molecular machine learning methods
-- Data-efficient learning
-- Large language models in chemistry
-- Model interpretability and explainability
-- Interatomic potentials for molecules and materials
-- Generative modeling
-- Machine learning for protein engineering
-- Automation of the DMTA cycle
-- Chemical reactions
-
-Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2023/Workshop/ML4Molecules) until October 23 2023 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) template with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous.
-
 ### Registration
 The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-723480107477?aff=oddtdtcreator).
 
@@ -80,6 +65,22 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 - October 23, 2023: Deadline for submission
 - Mid / End November, 2023: Author notification
 - December 8, 2023: Workshop
+
+### Call for papers
+We are calling for papers advancing or critically assessing molecular machine learning. Topics include (but not limited to):  
+
+- Benchmarking molecular machine learning methods
+- Data-efficient learning
+- Large language models in chemistry
+- Model interpretability and explainability
+- Interatomic potentials for molecules and materials
+- Generative modeling
+- Machine learning for protein engineering
+- Automation of the DMTA cycle
+- Chemical reactions
+
+Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2023/Workshop/ML4Molecules) until October 23 2023 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) template with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous.
+
 
 ### Organizing Committee and Contact
 Chairs: [Michele Ceriotti](https://www.epfl.ch/labs/cosmo/), [Francesca Grisoni](https://molecularmachinelearning.com/), [Philippe Schwaller](https://schwallergroup.github.io/), [Andrea Volkamer](https://volkamerlab.org/)
