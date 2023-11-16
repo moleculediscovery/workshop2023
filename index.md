@@ -25,6 +25,38 @@ We are calling for papers advancing or critically assessing molecular machine le
 
 Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2023/Workshop/ML4Molecules) until October 23 2023 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) template with a maximum of 4 pages (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous.
 
+### Registration
+The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-723480107477?aff=oddtdtcreator).
+
+### Schedule 
+Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
+
+
+| CET             |	Event             |	Speakers             |
+| 09:00             |	Opening remarks            | TBA             |	
+| 09:00             |	Invited Talk             |	Renana Gershoni-Poranne             |
+| 09:30             |	Invited Talk             |	Jan H. Jensen             |
+| 10:00             |	Contributed talk             | TBA            |		
+| 10:15             |	Contributed talk             | TBA             |		
+| 10:30             |	Contributed talk             | TBA             |		
+| 10:45             |	Contributed talk             | TBA             |		
+| 11:00             |	Poster Session (1)             | Poster discussion at Gathertownat             |	
+| 12:00             |	Break             |				
+| 13:00             |	Invited talk             |	Rianne van der Berg             |	
+| 13:30             |	Invited talk             |	Bruno Correia             |	
+| 14:00             |	Invited talk             |	Eva Nittinger             |	
+| 14:30             |	Contributed talk             | TBA             |		
+| 14:45             |	Contributed talk             | TBA             |		
+| 15:00             |	Break             |		
+| 15:30             |	Invited talk             |	Raquel Rodríguez-Pérez             |	
+| 16:00             |	Invited talk             |	Pat Walters             |	
+| 16:30             |	Invited talk             |	Andrew D. White             |
+| 17:00             |	Closing remarks             |
+| 17:05             |	Poster Session (2)             | Poster discussion at Gathertownat             |	
+| 18:00             |	End             | TBA             |
+
+
+
 ### Keynote Speakers
 
 
@@ -44,15 +76,9 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 ### Accepted contributions (poster)
 [TBA] --->
 
-### Registration
-The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-723480107477?aff=oddtdtcreator).
-
-### Schedule 
-Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
-
 ### Important dates
 - October 23, 2023: Deadline for submission
-- Mid November, 2023: Author notification
+- Mid / End November, 2023: Author notification
 - December 8, 2023: Workshop
 
 ### Organizing Committee and Contact
