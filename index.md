@@ -1,4 +1,4 @@
-[About](#about) - [Call for Papers](#call-for-papers) - [Speakers](#speakers) - [Schedule](#schedule) - [Registration](#registration) - [Important Dates](#important-dates)
+[About](#about) - [Call for Papers](#call-for-papers) - [Speakers](#speakers) - [Schedule](#schedule) - [Keynote Abstracts](#keynote-abstracts) [Registration](#registration) - [Important Dates](#important-dates)
 
 ### About
 
@@ -52,7 +52,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | <img align="left" width="200" height="200" src="https://www.microsoft.com/en-us/research/uploads/prod/2021/10/profile_photo-3.png">             | [Rianne van der Berg](https://www.microsoft.com/en-us/research/people/rvandenberg/), Microsoft Research, Netherlands.             |
 | <img align="left" width="200" height="200" src="https://www.hajim.rochester.edu/che/people/faculty/white_andrew/assets/images/white.jpg">             | [Andrew D. White](https://thewhitelab.org/), Stealth AI x Bio Institute, United States.             |
 | <img align="left" width="200" height="200" src="https://media.licdn.com/dms/image/C4E03AQE9jL1_h9fKrQ/profile-displayphoto-shrink_800_800/0/1517586795854?e=2147483647&v=beta&t=J2evD3Pg-T3lLZKrPA8jKUw0pk97_BH7L-7Ik8-m2rE">             | [Eva Nittinger](https://scholar.google.com/citations?user=iqlNcZUAAAAJ&hl=de), AstraZeneca, Sweden.             |
-| <img align="left" width="200" height="200" src="https://relaytx.com/wp-content/uploads/2023/04/230216_Relay_PatWalters_HiRes-9728.jpg">             | [Pat Walters](https://relaytx.com/our-team/pat-walters-ph-d/), Relay Therapeutics, Cambridge, United States.< br>**Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong**< br>While machine learning (ML) models have been applied to quantitative structure-activity relationships (QSAR) for more than 20 years, the field has yet to arrive at standards for benchmark evaluations. Published benchmark studies have employed a wide range of datasets, cross-validation methodologies, and evaluation metrics. While variety is important, it is essential that benchmarks provide an accurate reflection of model performance. Unfortunately, many papers that compare ML methods and/or molecular representations use highly flawed datasets and fail to employ appropriate statistical methods. Datasets considered “standards” in the field contain numerous errors which may not be apparent to non-experts. These errors compromise and may invalidate method comparisons. In addition, many papers either ignore or inappropriately apply statistical tests for comparing distributions. Reported differences between methods often evaporate when exposed to statistical scrutiny. For the field to progress, we must establish standards and develop an evaluation framework that authors, reviewers, and journal editors can use. This will require a concerted, collaborative effort between domain experts, machine learning practitioners, and statisticians. This presentation will highlight prevalent issues with published benchmarking studies and suggest a path forward.|
+| <img align="left" width="200" height="200" src="https://relaytx.com/wp-content/uploads/2023/04/230216_Relay_PatWalters_HiRes-9728.jpg">             | [Pat Walters](https://relaytx.com/our-team/pat-walters-ph-d/), Relay Therapeutics, Cambridge, United States.|
 
 
 <!-- ### Accepted contributions (oral)
@@ -60,6 +60,11 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 
 ### Accepted contributions (poster)
 [TBA] --->
+### Keynote Abstracts
+<details>
+  <summary><b>Pat Walters - Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong</b></summary>
+  While machine learning (ML) models have been applied to quantitative structure-activity relationships (QSAR) for more than 20 years, the field has yet to arrive at standards for benchmark evaluations. Published benchmark studies have employed a wide range of datasets, cross-validation methodologies, and evaluation metrics. While variety is important, it is essential that benchmarks provide an accurate reflection of model performance. Unfortunately, many papers that compare ML methods and/or molecular representations use highly flawed datasets and fail to employ appropriate statistical methods. Datasets considered “standards” in the field contain numerous errors which may not be apparent to non-experts. These errors compromise and may invalidate method comparisons. In addition, many papers either ignore or inappropriately apply statistical tests for comparing distributions. Reported differences between methods often evaporate when exposed to statistical scrutiny. For the field to progress, we must establish standards and develop an evaluation framework that authors, reviewers, and journal editors can use. This will require a concerted, collaborative effort between domain experts, machine learning practitioners, and statisticians. This presentation will highlight prevalent issues with published benchmarking studies and suggest a path forward.
+</details>
 
 ### Important dates
 - October 23, 2023: Deadline for submission
