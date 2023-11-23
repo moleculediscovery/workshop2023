@@ -61,7 +61,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 ### Accepted contributions (poster)
 [TBA] --->
 ### Keynote Abstracts
-<details>
+<details open>
   <summary><b>Pat Walters - Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong</b></summary>
   While machine learning (ML) models have been applied to quantitative structure-activity relationships (QSAR) for more than 20 years, the field has yet to arrive at standards for benchmark evaluations. Published benchmark studies have employed a wide range of datasets, cross-validation methodologies, and evaluation metrics. While variety is important, it is essential that benchmarks provide an accurate reflection of model performance. Unfortunately, many papers that compare ML methods and/or molecular representations use highly flawed datasets and fail to employ appropriate statistical methods. Datasets considered “standards” in the field contain numerous errors which may not be apparent to non-experts. These errors compromise and may invalidate method comparisons. In addition, many papers either ignore or inappropriately apply statistical tests for comparing distributions. Reported differences between methods often evaporate when exposed to statistical scrutiny. For the field to progress, we must establish standards and develop an evaluation framework that authors, reviewers, and journal editors can use. This will require a concerted, collaborative effort between domain experts, machine learning practitioners, and statisticians. This presentation will highlight prevalent issues with published benchmarking studies and suggest a path forward.
 </details>
