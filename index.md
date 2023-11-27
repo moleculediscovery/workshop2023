@@ -30,7 +30,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 12:00             |	Break             |				 |
 | 13:00             |	Invited talk             |	Rianne van der Berg             |	 TBA|
 | 13:30             |	Invited talk             |	Bruno Correia             |	 TBA|
-| 14:00             |	Invited talk             |	Eva Nittinger             |	 TBA|
+| 14:00             |	Invited talk             |	Eva Nittinger             |	Generative Drug Design with REINVENT - Possibilities and Open Challenges|
 | 14:30             |	Contributed talk             | TBA             |		 TBA|
 | 14:45             |	Contributed talk             | TBA             |		 TBA|
 | 15:00             |	Break             |		 | |
