@@ -34,7 +34,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 14:30             |	Contributed talk             | TBA             |		 TBA|
 | 14:45             |	Contributed talk             | TBA             |		 TBA|
 | 15:00             |	Break             |		 | |
-| 15:30             |	Invited talk             |	Raquel Rodríguez-Pérez             |	 TBA|
+| 15:30             |	Invited talk             |	Raquel Rodríguez-Pérez             | Advancing Drug Design with Machine Learning: Predicting Compound Properties in the Pharmaceutical Industry |
 | 16:00             |	Invited talk             |	Pat Walters             |	Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong |
 | 16:30             |	Invited talk             |	Andrew D. White             | TBA|
 | 17:00             |	Closing remarks             |  | |
@@ -65,6 +65,11 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 <details open>
   <summary><b>Pat Walters - Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong</b></summary>
   While machine learning (ML) models have been applied to quantitative structure-activity relationships (QSAR) for more than 20 years, the field has yet to arrive at standards for benchmark evaluations. Published benchmark studies have employed a wide range of datasets, cross-validation methodologies, and evaluation metrics. While variety is important, it is essential that benchmarks provide an accurate reflection of model performance. Unfortunately, many papers that compare ML methods and/or molecular representations use highly flawed datasets and fail to employ appropriate statistical methods. Datasets considered “standards” in the field contain numerous errors which may not be apparent to non-experts. These errors compromise and may invalidate method comparisons. In addition, many papers either ignore or inappropriately apply statistical tests for comparing distributions. Reported differences between methods often evaporate when exposed to statistical scrutiny. For the field to progress, we must establish standards and develop an evaluation framework that authors, reviewers, and journal editors can use. This will require a concerted, collaborative effort between domain experts, machine learning practitioners, and statisticians. This presentation will highlight prevalent issues with published benchmarking studies and suggest a path forward.
+</details>
+
+<details open>
+  <summary><b>Raquel Rodríguez-Pérez - Advancing Drug Design with Machine Learning: Predicting Compound Properties in the Pharmaceutical Industry</b></summary>
+  Machine learning (ML) and deep learning models have become indispensable tools for predicting compound properties, including activity but also pharmacokinetics and toxicity endpoints. These predictions play a vital role in decision-making and assist in drug design. Recently, our investigations have focused on benchmarking different training set compositions for model generation (global vs local models). We have also explored approaches to address the challenge of changing distributions in specific projects or new modalities (domain adaptation), as well as the interpretation of predictions from ML models, with a particular emphasis on explainability and uncertainty. This talk will highlight relevant applications of ML-based molecular property predictions in the pharmaceutical industry, shedding light on their significance and addressing the challenges that require further research.
 </details>
 
 ### Important dates
