@@ -1,4 +1,4 @@
-[About](#about) - [Call for Papers](#call-for-papers) - [Speakers](#speakers) - [Schedule](#schedule) - [Keynote Abstracts](#keynote-abstracts) - [Registration](#registration) - [Important Dates](#important-dates)
+[About](#about) - [Registration](#registration) - [Schedule](#schedule) - [Keynote Speakers](#keynote-speakers)  - [Keynote Abstracts](#keynote-abstracts) - [Accepted Contributions](#Accepted-contributions) - [Important Dates](#important-dates) - [Call for Papers](#call-for-papers)
 
 ### About
 
