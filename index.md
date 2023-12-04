@@ -11,7 +11,7 @@ We encourage contributions that focus on robust architectures capable of handlin
 Join us at this workshop, where experts from diverse fields, including ML, molecular sciences, and LLMs, will collaborate to overcome current limitations, explore new possibilities, and chart the future of molecular machine learning. Together, we aim to accelerate the discovery of functional molecules, revolutionize drug development, secure our food supply, and drive sustainable energy conversion and storage, ultimately shaping a better future for humanity.
 
 ### Registration
-The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-723480107477?aff=oddtdtcreator).
+The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-723480107477?aff=oddtdtcreator)!
 
 ### Schedule 
 Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
