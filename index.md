@@ -46,7 +46,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 ### Keynote Speakers
 
 
-| <img align="left" width="100" height="150" src="https://people.epfl.ch/private/common/photos/links/253103.jpg?ts=1694763012">            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.             |
+| <img align="left" width="100" height="125" src="https://people.epfl.ch/private/common/photos/links/253103.jpg?ts=1694763012">            | [Bruno Correia](https://people.epfl.ch/bruno.correia/?lang=en), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.             |
 | <img align="left" width="100" height="100" src="https://relx-elsevier-erms.file.force.com/servlet/servlet.ImageServer?id=0154L000000gZPLQA2&oid=00D1t000000qIy5EAE&lastMod=1609776015940">             | [Raquel Rodríguez-Pérez](https://scholar.google.com/citations?user=ZF7X7ucAAAAJ&hl=en), Novartis Institutes for Biomedical Research, Switzerland.             |
 | <img align="left" width="100" height="100" src="https://chemistry.technion.ac.il/wp-content/uploads/2021/10/CV-Picture-Renana-Gershoni-Poranne-700x700.jpg">             | [Renana Gershoni-Poranne](https://chemistry.technion.ac.il/en/team/renana-gershoni-poranne-2/), Technion, Israel.             |
 | <img align="left" width="100" height="100" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=lOz-SVQAAAAJ&citpid=2">             | [Jan H. Jensen](https://chem.ku.dk/research_sections/physchem/jensen-group/), University of Copenhagen, Denmark.             |
@@ -55,6 +55,21 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | <img align="left" width="100" height="100" src="https://media.licdn.com/dms/image/C4E03AQE9jL1_h9fKrQ/profile-displayphoto-shrink_800_800/0/1517586795854?e=2147483647&v=beta&t=J2evD3Pg-T3lLZKrPA8jKUw0pk97_BH7L-7Ik8-m2rE">             | [Eva Nittinger](https://scholar.google.com/citations?user=iqlNcZUAAAAJ&hl=de), AstraZeneca, Sweden.             |
 | <img align="left" width="100" height="100" src="https://relaytx.com/wp-content/uploads/2023/04/230216_Relay_PatWalters_HiRes-9728.jpg">             | [Pat Walters](https://relaytx.com/our-team/pat-walters-ph-d/), Relay Therapeutics, Cambridge, United States. |
 
+#### Keynote Abstracts
+<details close>
+  <summary><b>Pat Walters - Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong</b></summary>
+  While machine learning (ML) models have been applied to quantitative structure-activity relationships (QSAR) for more than 20 years, the field has yet to arrive at standards for benchmark evaluations. Published benchmark studies have employed a wide range of datasets, cross-validation methodologies, and evaluation metrics. While variety is important, it is essential that benchmarks provide an accurate reflection of model performance. Unfortunately, many papers that compare ML methods and/or molecular representations use highly flawed datasets and fail to employ appropriate statistical methods. Datasets considered “standards” in the field contain numerous errors which may not be apparent to non-experts. These errors compromise and may invalidate method comparisons. In addition, many papers either ignore or inappropriately apply statistical tests for comparing distributions. Reported differences between methods often evaporate when exposed to statistical scrutiny. For the field to progress, we must establish standards and develop an evaluation framework that authors, reviewers, and journal editors can use. This will require a concerted, collaborative effort between domain experts, machine learning practitioners, and statisticians. This presentation will highlight prevalent issues with published benchmarking studies and suggest a path forward.
+</details>
+
+<details close>
+  <summary><b>Raquel Rodríguez-Pérez - Advancing Drug Design with Machine Learning: Predicting Compound Properties in the Pharmaceutical Industry</b></summary>
+  Machine learning (ML) and deep learning models have become indispensable tools for predicting compound properties, including activity but also pharmacokinetics and toxicity endpoints. These predictions play a vital role in decision-making and assist in drug design. Recently, our investigations have focused on benchmarking different training set compositions for model generation (global vs local models). We have also explored approaches to address the challenge of changing distributions in specific projects or new modalities (domain adaptation), as well as the interpretation of predictions from ML models, with a particular emphasis on explainability and uncertainty. This talk will highlight relevant applications of ML-based molecular property predictions in the pharmaceutical industry, shedding light on their significance and addressing the challenges that require further research.
+</details>
+
+<details close>
+  <summary><b>Rianne van der Berg - Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics</b></summary>
+  In this talk I will first briefly discuss some of the research areas that we are currently exploring in AI4Science at Microsoft Research, covering topics such as drug discovery, material generation and neural PDE solvers. Then I will dive a little deeper into recent work on the use of score-based generative modeling for coarse-graining (CG) molecular dynamics simulations. By training a diffusion model on protein structures from molecular dynamics simulations we show that its score function approximates a force field that can directly be used to simulate CG molecular dynamics.  While having a vastly simplified training setup compared to previous work, we demonstrate that our approach leads to improved performance across several small- to medium-sized protein simulations, reproducing the CG equilibrium distribution, and preserving dynamics of all-atom simulations such as protein folding events.
+</details>
 
 <!-- ### Accepted contributions (oral)
 [TBA] --->
@@ -87,21 +102,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 23             |	BoChemian: Large Language Model Embeddings for Bayesian Optimization of Chemical Reactions             |	 Bojana Ranković, Philippe Schwaller           |
 
 
-### Keynote Abstracts
-<details close>
-  <summary><b>Pat Walters - Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong</b></summary>
-  While machine learning (ML) models have been applied to quantitative structure-activity relationships (QSAR) for more than 20 years, the field has yet to arrive at standards for benchmark evaluations. Published benchmark studies have employed a wide range of datasets, cross-validation methodologies, and evaluation metrics. While variety is important, it is essential that benchmarks provide an accurate reflection of model performance. Unfortunately, many papers that compare ML methods and/or molecular representations use highly flawed datasets and fail to employ appropriate statistical methods. Datasets considered “standards” in the field contain numerous errors which may not be apparent to non-experts. These errors compromise and may invalidate method comparisons. In addition, many papers either ignore or inappropriately apply statistical tests for comparing distributions. Reported differences between methods often evaporate when exposed to statistical scrutiny. For the field to progress, we must establish standards and develop an evaluation framework that authors, reviewers, and journal editors can use. This will require a concerted, collaborative effort between domain experts, machine learning practitioners, and statisticians. This presentation will highlight prevalent issues with published benchmarking studies and suggest a path forward.
-</details>
 
-<details open>
-  <summary><b>Raquel Rodríguez-Pérez - Advancing Drug Design with Machine Learning: Predicting Compound Properties in the Pharmaceutical Industry</b></summary>
-  Machine learning (ML) and deep learning models have become indispensable tools for predicting compound properties, including activity but also pharmacokinetics and toxicity endpoints. These predictions play a vital role in decision-making and assist in drug design. Recently, our investigations have focused on benchmarking different training set compositions for model generation (global vs local models). We have also explored approaches to address the challenge of changing distributions in specific projects or new modalities (domain adaptation), as well as the interpretation of predictions from ML models, with a particular emphasis on explainability and uncertainty. This talk will highlight relevant applications of ML-based molecular property predictions in the pharmaceutical industry, shedding light on their significance and addressing the challenges that require further research.
-</details>
-
-<details open>
-  <summary><b>Rianne van der Berg - Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics</b></summary>
-  In this talk I will first briefly discuss some of the research areas that we are currently exploring in AI4Science at Microsoft Research, covering topics such as drug discovery, material generation and neural PDE solvers. Then I will dive a little deeper into recent work on the use of score-based generative modeling for coarse-graining (CG) molecular dynamics simulations. By training a diffusion model on protein structures from molecular dynamics simulations we show that its score function approximates a force field that can directly be used to simulate CG molecular dynamics.  While having a vastly simplified training setup compared to previous work, we demonstrate that our approach leads to improved performance across several small- to medium-sized protein simulations, reproducing the CG equilibrium distribution, and preserving dynamics of all-atom simulations such as protein folding events.
-</details>
 
 ### Important dates
 - October 23, 2023: Deadline for submission
