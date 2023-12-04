@@ -72,6 +72,11 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
   Machine learning (ML) and deep learning models have become indispensable tools for predicting compound properties, including activity but also pharmacokinetics and toxicity endpoints. These predictions play a vital role in decision-making and assist in drug design. Recently, our investigations have focused on benchmarking different training set compositions for model generation (global vs local models). We have also explored approaches to address the challenge of changing distributions in specific projects or new modalities (domain adaptation), as well as the interpretation of predictions from ML models, with a particular emphasis on explainability and uncertainty. This talk will highlight relevant applications of ML-based molecular property predictions in the pharmaceutical industry, shedding light on their significance and addressing the challenges that require further research.
 </details>
 
+<details open>
+  <summary><b>Rianne van der Berg - Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics</b></summary>
+  In this talk I will first briefly discuss some of the research areas that we are currently exploring in AI4Science at Microsoft Research, covering topics such as drug discovery, material generation and neural PDE solvers. Then I will dive a little deeper into recent work on the use of score-based generative modeling for coarse-graining (CG) molecular dynamics simulations. By training a diffusion model on protein structures from molecular dynamics simulations we show that its score function approximates a force field that can directly be used to simulate CG molecular dynamics.  While having a vastly simplified training setup compared to previous work, we demonstrate that our approach leads to improved performance across several small- to medium-sized protein simulations, reproducing the CG equilibrium distribution, and preserving dynamics of all-atom simulations such as protein folding events.
+</details>
+
 ### Important dates
 - October 23, 2023: Deadline for submission
 - Mid / End November, 2023: Author notification
