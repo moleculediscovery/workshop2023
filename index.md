@@ -20,19 +20,19 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | CET             |	Event             |	Speakers             | Title |
 | ----            |----                |----                 |----------|
 | 09:00             |	Opening remarks            |              |	 |
-| 09:00             |	Invited Talk             |	Renana Gershoni-Poranne             | TBA|
+| 09:00             |	Invited Talk             |	Renana Gershoni-Poranne             | TBA |
 | 09:30             |	Invited Talk             |	Jan H. Jensen             | TBA|
-| 10:00             |	Contributed talk             | TBA            |		 TBA|
-| 10:15             |	Contributed talk             | TBA             |		 TBA|
-| 10:30             |	Contributed talk             | TBA             |		 TBA|
-| 10:45             |	Contributed talk             | TBA             |		 TBA|
+| 10:00             |	Contributed talk             | Rıza Özçelik            | Structured State-Space Sequence Models for De Novo Drug Design |
+| 10:15             |	Contributed talk             | Elizaveta Kozlova             | Protein Inpainting Co-Design with ProtFill |
+| 10:30             |	Contributed talk             | Junwu Chen             |	Molecular Hypergraph Neural Network |
+| 10:45             |	Contributed talk             | Florian Sestak             | VN-EGNN: Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification |
 | 11:00             |	Poster Session (1)             | Poster discussion at Gathertown             |	|
 | 12:00             |	Break             |				 |
-| 13:00             |	Invited talk             |	Rianne van der Berg             |	 TBA|
-| 13:30             |	Invited talk             |	Bruno Correia             |	 TBA|
-| 14:00             |	Invited talk             |	Eva Nittinger             |	Generative Drug Design with REINVENT - Possibilities and Open Challenges|
-| 14:30             |	Contributed talk             | TBA             |		 TBA|
-| 14:45             |	Contributed talk             | TBA             |		 TBA|
+| 13:00             |	Invited talk             |	Rianne van der Berg             | Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics |
+| 13:30             |	Invited talk             |	Bruno Correia             | TBA |
+| 14:00             |	Invited talk             |	Eva Nittinger             |	Generative Drug Design with REINVENT - Possibilities and Open Challenges |
+| 14:30             |	Contributed talk             | Ilia Igashov             |	RetroBridge: Modeling Retrosynthesis with Markov Bridges |
+| 14:45             |	Contributed talk             | Roman Joeres             |	DataSAIL: Data Splitting Against Information Leakage |
 | 15:00             |	Break             |		 | |
 | 15:30             |	Invited talk             |	Raquel Rodríguez-Pérez             | Advancing Drug Design with Machine Learning: Predicting Compound Properties in the Pharmaceutical Industry |
 | 16:00             |	Invited talk             |	Pat Walters             |	Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong |
