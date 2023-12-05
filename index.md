@@ -88,8 +88,8 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 8             |	Retro-fallback: retrosynthetic planning in an uncertain world             |	Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Marwin Segler, José Miguel Hernández-Lobato             |	PS 2             |
 | 9             |	Exploring Organic Syntheses through Natural Language             |	Andres M Bran, Philippe Schwaller             |	PS 1             |
 | 10             |	Harmonic Prior Self-conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design             |	Hannes Stark, Bowen Jing, Regina Barzilay, Tommi S. Jaakkola             |	PS 2             |
-| 11             |	Coherent Energy and Force Uncertainty in Deep Learning Force Fields             |	Peter Bjørn Jørgensen, Jonas Busk, Ole Winther, Mikkel N. Schmidt             |	Poster Session 1             |
-| 12             |	Transition Path Sampling with Boltzmann Generator-based MCMC Moves             |	Michael Plainer, Hannes Stark, Charlotte Bunne, Stephan Günnemann             |	Poster Session 2             |
+| 11             |	Coherent Energy and Force Uncertainty in Deep Learning Force Fields             |	Peter Bjørn Jørgensen, Jonas Busk, Ole Winther, Mikkel N. Schmidt             |	PS 1             |
+| 12             |	Transition Path Sampling with Boltzmann Generator-based MCMC Moves             |	Michael Plainer, Hannes Stark, Charlotte Bunne, Stephan Günnemann             |	PS 2             |
 | 13             |	Guided docking as a data generation approach facilitates structure-based machine learning on kinases             |	Joschka Groß, Michael Backenköhler, Verena Wolf, Andrea Volkamer             |	PS 1             |
 | 14             |	Automatic Generation of Mechanistic Pathways of Organic Reactions with Dual Templates             |	Shuan Chen, Ramil Babazade, Yousung Jung             |	PS 1             |
 | 15             |	Unveiling the Secrets of $^1$H-NMR Spectroscopy: A Novel Approach Utilizing Attention Mechanisms             |	Oliver Schilter, Marvin Alberts, Alain C. Vaucher, Philippe Schwaller, Teodoro Laino             |	PS 2             |
