@@ -20,7 +20,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | CET             |	Event             |	Speakers             | Title |
 | ----            |----                |----                 |----------|
 | 09:00             |	Opening remarks            |              |	 |
-| 09:00             |	Invited Talk             |	Renana Gershoni-Poranne             | TBA |
+| 09:00             |	Invited Talk             |	Renana Gershoni-Poranne             | Exploring the Chemical Space of Polycyclic Aromatic Systems |
 | 09:30             |	Invited Talk             |	Jan H. Jensen             | TBA|
 | 10:00             |	Contributed talk             | Rıza Özçelik            | Structured State-Space Sequence Models for De Novo Drug Design |
 | 10:15             |	Contributed talk             | Elizaveta Kozlova             | Protein Inpainting Co-Design with ProtFill |
