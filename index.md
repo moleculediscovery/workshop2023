@@ -26,7 +26,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 10:15             |	Contributed talk             | Elizaveta Kozlova             | Protein Inpainting Co-Design with ProtFill |
 | 10:30             |	Contributed talk             | Junwu Chen             |	Molecular Hypergraph Neural Network |
 | 10:45             |	Contributed talk             | Florian Sestak             | VN-EGNN: Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification |
-| 11:00             |	Poster Session (1)             | Poster discussion at Gathertown             |	|
+| 11:00             |	Poster Session 1 (PS 1)             | Poster discussion at Gathertown             |	|
 | 12:00             |	Break             |				 |
 | 13:00             |	Invited talk             |	Rianne van der Berg             | Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics |
 | 13:30             |	Invited talk             |	Bruno Correia             | TBA |
@@ -38,7 +38,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 16:00             |	Invited talk             |	Pat Walters             |	Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong |
 | 16:30             |	Invited talk             |	Andrew D. White             | TBA|
 | 17:00             |	Closing remarks             |  | |
-| 17:05             |	Poster Session (2)             | Poster discussion at Gathertown             |	 |
+| 17:05             |	Poster Session 2 (PS 2)             | Poster discussion at Gathertown             |	 |
 | 18:00             |	End             |              | |
 
 
@@ -78,29 +78,29 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 ### Accepted contributions (poster)
 
 
-| 1             |	Assessing the Extrapolation Capability of Template-Free Retrosynthesis Models             |	Shuan Chen, Yousung Jung             |	Poster Session 1             |
-| 2             |	TS-DiffuGen: An equivariant diffusion model for reaction transition state conformation generation             |	Sacha Raffaud, Jeff Guo, Philippe Schwaller             |	Poster Session 2             |
-| 3             |	Activity Cliffs Go Smooth: Graph Siamese Neural Networks for Molecular Activity Prediction             |	Ghaith Mqawass, Steffen Hirte, Johannes Kirchmair, Nils Morten Kriege             |	Poster Session 1             |
-| 4             |	Bayesian Optimization of Catalysts With In-context Learning             |	Mayk Caldas Ramos, Shane Michtavy, Marc Porosoff, Andrew White            |	Poster Session 2             |
-| 5             |	Inverse-design of organometallic catalysts with guided equivariant diffusion             |	François R J Cornet, Bardi Benediktsson, Bjarke Hastrup, Arghya Bhowmik, Mikkel N. Schmidt             |	Poster Session 1             |
-| 6             |	Molecule-Edit Templates for Efficient and Accurate Retrosynthesis Prediction             |	Mikołaj Sacha, Michał Sadowski, Piotr Kozakowski, Ruad van Workum, Stanislaw Kamil Jastrzebski             |	Poster Session 2             |
-| 7             |	Machine learning-guided high throughput nanoparticle design             |	Derek van Tilborg, Ana Ortiz-Perez, Roy van der Meel, Francesca Grisoni, Lorenzo Albertazzi             |	Poster Session 1             |
-| 8             |	Retro-fallback: retrosynthetic planning in an uncertain world             |	Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Marwin Segler, José Miguel Hernández-Lobato             |	Poster Session 2             |
-| 9             |	Exploring Organic Syntheses through Natural Language             |	Andres M Bran, Philippe Schwaller             |	Poster Session 1             |
-| 10             |	Harmonic Prior Self-conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design             |	Hannes Stark, Bowen Jing, Regina Barzilay, Tommi S. Jaakkola             |	Poster Session 2             |
+| 1             |	Assessing the Extrapolation Capability of Template-Free Retrosynthesis Models             |	Shuan Chen, Yousung Jung             |	PS 1             |
+| 2             |	TS-DiffuGen: An equivariant diffusion model for reaction transition state conformation generation             |	Sacha Raffaud, Jeff Guo, Philippe Schwaller             |	PS 2             |
+| 3             |	Activity Cliffs Go Smooth: Graph Siamese Neural Networks for Molecular Activity Prediction             |	Ghaith Mqawass, Steffen Hirte, Johannes Kirchmair, Nils Morten Kriege             |	PS 1             |
+| 4             |	Bayesian Optimization of Catalysts With In-context Learning             |	Mayk Caldas Ramos, Shane Michtavy, Marc Porosoff, Andrew White            |	PS 2             |
+| 5             |	Inverse-design of organometallic catalysts with guided equivariant diffusion             |	François R J Cornet, Bardi Benediktsson, Bjarke Hastrup, Arghya Bhowmik, Mikkel N. Schmidt             |	PS 1             |
+| 6             |	Molecule-Edit Templates for Efficient and Accurate Retrosynthesis Prediction             |	Mikołaj Sacha, Michał Sadowski, Piotr Kozakowski, Ruad van Workum, Stanislaw Kamil Jastrzebski             |	PS 2             |
+| 7             |	Machine learning-guided high throughput nanoparticle design             |	Derek van Tilborg, Ana Ortiz-Perez, Roy van der Meel, Francesca Grisoni, Lorenzo Albertazzi             |	PS 1             |
+| 8             |	Retro-fallback: retrosynthetic planning in an uncertain world             |	Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Marwin Segler, José Miguel Hernández-Lobato             |	PS 2             |
+| 9             |	Exploring Organic Syntheses through Natural Language             |	Andres M Bran, Philippe Schwaller             |	PS 1             |
+| 10             |	Harmonic Prior Self-conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design             |	Hannes Stark, Bowen Jing, Regina Barzilay, Tommi S. Jaakkola             |	PS 2             |
 | 11             |	Coherent Energy and Force Uncertainty in Deep Learning Force Fields             |	Peter Bjørn Jørgensen, Jonas Busk, Ole Winther, Mikkel N. Schmidt             |	Poster Session 1             |
 | 12             |	Transition Path Sampling with Boltzmann Generator-based MCMC Moves             |	Michael Plainer, Hannes Stark, Charlotte Bunne, Stephan Günnemann             |	Poster Session 2             |
-| 13             |	Guided docking as a data generation approach facilitates structure-based machine learning on kinases             |	Joschka Groß, Michael Backenköhler, Verena Wolf, Andrea Volkamer             |	Poster Session 1             |
-| 14             |	Automatic Generation of Mechanistic Pathways of Organic Reactions with Dual Templates             |	Shuan Chen, Ramil Babazade, Yousung Jung             |	Poster Session 1             |
-| 15             |	Unveiling the Secrets of $^1$H-NMR Spectroscopy: A Novel Approach Utilizing Attention Mechanisms             |	Oliver Schilter, Marvin Alberts, Alain C. Vaucher, Philippe Schwaller, Teodoro Laino             |	Poster Session 2             |
-| 16             |	Improved Chirality Encodings Boost Transformer-Based Stereochemical Reaction Prediction             |	Rémi Schlama, Philippe Schwaller             |	Poster Session 2             |
-| 17             |	Autoregressive Reinforcing Framework for Fragment-based Generative Model             |	Gunwook Nam, Yousung Jung             |	Poster Session 1             |
-| 18             |	Discriminator-Driven Diffusion Mechanisms for Molecular Graph Generation             |	Gerrit Großmann             |	Poster Session 2             |
-| 19             |	Genetic algorithms are strong baselines for molecule generation             |	Austin Tripp, José Miguel Hernández-Lobato             |	Poster Session 1             |
-| 20             |	Retrieval of synthesis parameters of polymer nanocomposites using LLMs             |	Defne Circi, Ghazal Khalighinejad, Shruti Badhwar, Bhuwan Dhingra, L. Brinson             |	Poster Session 2             |
-| 21             |	Graph-to-String Variational Autoencoder for Synthetic Polymer Design             |	Gabriel Vogel, Paolo Sortino, Jana Marie Weber             |	Poster Session 1             |
-| 22             |	MolSiam: Simple Siamese Self-supervised Representation Learning for Small Molecules             |	 Joshua Yao-Yu Lin, Michael Maser, Nathan C. Frey, Gabriele Scalia, Omar Mahmood, Pedro O. Pinheiro, Ji Won Park, Stephen Ra, Andrew Martin Watkins, Kyunghyun Cho           |	Poster Session 2             |
-| 23             |	BoChemian: Large Language Model Embeddings for Bayesian Optimization of Chemical Reactions             |	 Bojana Ranković, Philippe Schwaller           |	Poster Session 1             |
+| 13             |	Guided docking as a data generation approach facilitates structure-based machine learning on kinases             |	Joschka Groß, Michael Backenköhler, Verena Wolf, Andrea Volkamer             |	PS 1             |
+| 14             |	Automatic Generation of Mechanistic Pathways of Organic Reactions with Dual Templates             |	Shuan Chen, Ramil Babazade, Yousung Jung             |	PS 1             |
+| 15             |	Unveiling the Secrets of $^1$H-NMR Spectroscopy: A Novel Approach Utilizing Attention Mechanisms             |	Oliver Schilter, Marvin Alberts, Alain C. Vaucher, Philippe Schwaller, Teodoro Laino             |	PS 2             |
+| 16             |	Improved Chirality Encodings Boost Transformer-Based Stereochemical Reaction Prediction             |	Rémi Schlama, Philippe Schwaller             |	PS 2             |
+| 17             |	Autoregressive Reinforcing Framework for Fragment-based Generative Model             |	Gunwook Nam, Yousung Jung             |	PS 1             |
+| 18             |	Discriminator-Driven Diffusion Mechanisms for Molecular Graph Generation             |	Gerrit Großmann             |	PS 2             |
+| 19             |	Genetic algorithms are strong baselines for molecule generation             |	Austin Tripp, José Miguel Hernández-Lobato             |	PS 1             |
+| 20             |	Retrieval of synthesis parameters of polymer nanocomposites using LLMs             |	Defne Circi, Ghazal Khalighinejad, Shruti Badhwar, Bhuwan Dhingra, L. Brinson             |	PS 2             |
+| 21             |	Graph-to-String Variational Autoencoder for Synthetic Polymer Design             |	Gabriel Vogel, Paolo Sortino, Jana Marie Weber             |	PS 1             |
+| 22             |	MolSiam: Simple Siamese Self-supervised Representation Learning for Small Molecules             |	 Joshua Yao-Yu Lin, Michael Maser, Nathan C. Frey, Gabriele Scalia, Omar Mahmood, Pedro O. Pinheiro, Ji Won Park, Stephen Ra, Andrew Martin Watkins, Kyunghyun Cho           |	PS 2             |
+| 23             |	BoChemian: Large Language Model Embeddings for Bayesian Optimization of Chemical Reactions             |	 Bojana Ranković, Philippe Schwaller           |	PS 1             |
 
 
 
