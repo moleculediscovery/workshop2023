@@ -29,7 +29,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 11:00             |	Poster Session 1 (PS 1)             | Poster discussion at Gathertown             |	|
 | 12:00             |	Break             |				 |
 | 13:00             |	Invited talk             |	Rianne van der Berg             | Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics |
-| 13:30             |	Invited talk             |	Bruno Correia             | TBA |
+| 13:30             |	Invited talk             |	Bruno Correia             |  Leveraging learned surface fingerprints and generative AI for small-molecule design |
 | 14:00             |	Invited talk             |	Eva Nittinger             |	Generative Drug Design with REINVENT - Possibilities and Open Challenges |
 | 14:30             |	Contributed talk             | Ilia Igashov             |	RetroBridge: Modeling Retrosynthesis with Markov Bridges |
 | 14:45             |	Contributed talk             | Roman Joeres             |	DataSAIL: Data Splitting Against Information Leakage |
