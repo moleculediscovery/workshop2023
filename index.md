@@ -19,7 +19,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 
 | CET             |	Event             |	Speakers             | Title |
 | ----            |----                |----                 |----------|
-| 1. Session            | Session Chair: Francesca Grisoni             	 |
+|              | 1. Session            | Session Chair: Francesca Grisoni             |             	 |
 | 09:00             |	Opening remarks            | ML4Mol Chair             |	 |
 | 09:00             |	Invited Talk             |	Jan H. Jensen             | Using machine learning and quantum chemistry in drug discovery |
 | 09:30             |	Invited Talk             |	Renana Gershoni-Poranne             | Exploring the Chemical Space of Polycyclic Aromatic Systems |
@@ -29,16 +29,18 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 10:45             |	Contributed talk             | Florian Sestak             | VN-EGNN: Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification |
 | 11:00             |	Poster Session 1 (PS 1)             | Poster discussion at Gathertown             |	|
 | 12:00             |	Break             |				 |
+|              | 2. Session            | Session Chair: Andrea Volkamer             |             	 |
 | 13:00             |	Invited talk             |	Rianne van der Berg             | Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics |
 | 13:30             |	Invited talk             |	Bruno Correia             |  Leveraging learned surface fingerprints and generative AI for small-molecule design |
 | 14:00             |	Invited talk             |	Eva Nittinger             |	Generative Drug Design with REINVENT - Possibilities and Open Challenges |
 | 14:30             |	Contributed talk             | Ilia Igashov             |	RetroBridge: Modeling Retrosynthesis with Markov Bridges |
 | 14:45             |	Contributed talk             | Roman Joeres             |	DataSAIL: Data Splitting Against Information Leakage |
 | 15:00             |	Break             |		 | |
+|              | 3. Session            | Session Chair: Philippe Schwaller             |             	 |
 | 15:30             |	Invited talk             |	Raquel Rodríguez-Pérez             | Advancing Drug Design with Machine Learning: Predicting Compound Properties in the Pharmaceutical Industry |
 | 16:00             |	Invited talk             |	Pat Walters             |	Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong |
 | 16:30             |	Invited talk             |	Andrew D. White             | Agents for Scientific Research Over Scientific Domains |
-| 17:00             |	Closing remarks             |  | |
+| 17:00             |	Closing remarks             | ML4Mol Chair   | |
 | 17:05             |	Poster Session 2 (PS 2)             | Poster discussion at Gathertown             |	 |
 | 18:00             |	End             |              | |
 
