@@ -27,7 +27,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 10:15             |	Contributed talk             | Elizaveta Kozlova             | Protein Inpainting Co-Design with ProtFill |
 | 10:30             |	Contributed talk             | Junwu Chen             |	Molecular Hypergraph Neural Network |
 | 10:45             |	Contributed talk             | Florian Sestak             | VN-EGNN: Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification |
-| 11:00             |	Poster Session 1 (PS 1)             | Poster discussion at Gathertown             |	|
+| 11:00             |	Poster Session 1 (PS 1)             | Poster discussion at [Gathertown](https://app.gather.town/app/rXoRSUYXGvXSG0GK/MDworkshop2023)             |	|
 | 12:00             |	Break             |				 |
 |              | 2. Session            | Session Chair: Andrea Volkamer             |             	 |
 | 13:00             |	Invited talk             |	Rianne van der Berg             | Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics |
@@ -41,7 +41,7 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 | 16:00             |	Invited talk             |	Pat Walters             |	Benchmarking Machine Learning Models in Drug Discovery - You’re Probably Doing It Wrong |
 | 16:30             |	Invited talk             |	Andrew D. White             | Agents for Scientific Research Over Scientific Domains |
 | 17:00             |	Closing remarks             | ML4Mol Chair   | |
-| 17:05             |	Poster Session 2 (PS 2)             | Poster discussion at Gathertown             |	 |
+| 17:05             |	Poster Session 2 (PS 2)             | Poster discussion at [Gathertown](https://app.gather.town/app/rXoRSUYXGvXSG0GK/MDworkshop2023)             |	 |
 | 18:00             |	End             |              | |
 
 
