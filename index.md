@@ -19,6 +19,8 @@ Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
 
 | CET             |	Event             |	Speakers             | Title |
 | ----            |----                |----                 |----------|
+|              |	1. Session            | Session Chair: Francesca Grisoni             |	 |
+| ----            |----                |----                 |----------|
 | 09:00             |	Opening remarks            |              |	 |
 | 09:00             |	Invited Talk             |	Jan H. Jensen             | Using machine learning and quantum chemistry in drug discovery |
 | 09:30             |	Invited Talk             |	Renana Gershoni-Poranne             | Exploring the Chemical Space of Polycyclic Aromatic Systems |
