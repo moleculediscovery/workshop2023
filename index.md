@@ -14,7 +14,7 @@ Join us at this workshop, where experts from diverse fields, including ML, molec
 The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-723480107477?aff=oddtdtcreator)!
 
 ### Schedule 
-Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online format
+Fri, Dec. 8th 2023, 09:00 am - 6:00 pm, CET, online at [Zoom](https://epfl.zoom.us/j/69964151350?pwd=bWpJY2FXck5mRXJMQlBYSXRQS0hKdz09).
 
 
 | CET             |	Event             |	Speakers             | Title |
