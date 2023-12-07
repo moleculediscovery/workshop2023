@@ -1,7 +1,7 @@
 [About](#about) - [Registration](#registration) - [Schedule](#schedule) - [Keynote Speakers](#keynote-speakers)  - [Keynote Abstracts](#keynote-abstracts) - [Accepted Contributions](#accepted-contributions) - [Important Dates](#important-dates) - [Call for Papers](#call-for-papers)
 
->[!IMPORTANT]  
-2023-12-07: The workshop is taking place online via zoom. You should have received the [link](https://epfl.zoom.us/j/69964151350?pwd=bWpJY2FXck5mRXJMQlBYSXRQS0hKdz09) and credentials to login via email if you registered for the event on eventbrite. If you have not gotten this information, contact us via [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at).
+> [!IMPORTANT]  
+> 2023-12-07: The workshop is taking place online via zoom. You should have received the [link](https://epfl.zoom.us/j/69964151350?pwd=bWpJY2FXck5mRXJMQlBYSXRQS0hKdz09) and credentials to login via email if you registered for the event on eventbrite. If you have not gotten this information, contact us via [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at).
 
 ### About
 
